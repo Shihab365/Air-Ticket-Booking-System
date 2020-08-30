@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">Air Ticket Booking System</string>
+
+    <string-array name="popular_destname">
+        <item>Czech Republic</item>
+        <item>Eiffel Tower</item>
+        <item>Grand Canyon</item>
+        <item>Great Wall</item>
+        <item>Machu Picchu</item>
+        <item>New York</item>
+        <item>Pyramids</item>
+        <item>Statue of Liberty</item>
+        <item>Taj Mahal</item>
+    </string-array>
+
+    <string-array name="offfer_airplane">
+        <item>Adventure</item>
+        <item>Cruise</item>
+        <item>Eco</item>
+        <item>Hill</item>
+        <item>Holiday</item>
+        <item>Honeymoon</item>
+        <item>Pilgrimage</item>
+        <item>Wellness</item>
+        <item>Wildlife</item>
+    </string-array>
+
+    <string-array name="fly_from">
+        <item>Italy</item>
+        <item>France</item>
+        <item>Canada</item>
+        <item>Denmark</item>
+        <item>Finland</item>
+        <item>Egypt</item>
+        <item>Germany</item>
+        <item>Mexico</item>
+        <item>India</item>
+        <item>Japan</item>
+    </string-array>
+
+    <string-array name="fly_to">
+        <item>Egypt</item>
+        <item>Germany</item>
+        <item>Italy</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>India</item>
+        <item>Mexico</item>
+        <item>Canada</item>
+        <item>Denmark</item>
+        <item>Japan</item>
+    </string-array>
+
+    <string-array name="arrival_time">
+        <item>07:30 AM</item>
+        <item>08:15 PM</item>
+        <item>09:00 PM</item>
+        <item>10:00 AM</item>
+        <item>11:15 AM</item>
+        <item>12:00 PM</item>
+        <item>01:30 AM</item>
+        <item>02:15 PM</item>
+        <item>03:30 AM</item>
+        <item>04:15 AM</item>
+    </string-array>
+
+    <string-array name="arrival_airport">
+        <item>DAC,BD,T4</item>
+        <item>Kolkata,IN,T5</item>
+        <item>NYC,US,T6</item>
+        <item>GOA,IN,T7</item>
+        <item>ISB,PK,T8</item>
+        <item>SYL,BD,T9</item>
+        <item>DOHA,QA,T1</item>
+        <item>MEL,AUS,T2</item>
+        <item>TYO,JPN,T3</item>
+        <item>CGP,BD,T4</item>
+    </string-array>
+
+    <string-array name="flying_time">
+        <item>6h 20min</item>
+        <item>9h 00min</item>
+        <item>8h 20min</item>
+        <item>7h 55min</item>
+        <item>3h 30min</item>
+        <item>9h 20min</item>
+        <item>6h 25min</item>
+        <item>9h 15min</item>
+        <item>8h 15min</item>
+        <item>7h 40min</item>
+    </string-array>
+
+
+    <string-array name="depart_time">
+        <item>01:30 PM</item>
+        <item>10:15 AM</item>
+        <item>04:20 PM</item>
+        <item>10:55 AM</item>
+        <item>02:45 PM</item>
+        <item>10:20 PM</item>
+        <item>07:55 AM</item>
+        <item>04:30 AM</item>
+        <item>01:15 PM</item>
+        <item>08:55 PM</item>
+    </string-array>
+
+    <string-array name="depart_airport">
+        <item>DELHI,T2</item>
+        <item>LON,UK,T3</item>
+        <item>BKK,Thai,T4</item>
+        <item>WAS,US,T5</item>
+        <item>DXB,UAE,T6</item>
+        <item>LON,UK,T7</item>
+        <item>SYD,AUS,T8</item>
+        <item>AUH,UAE,T9</item>
+        <item>MOW,RU,T1</item>
+        <item>BJS,CN,T5</item>
+    </string-array>
+
+    <string-array name="plane_fare">
+        <item>$540.35</item>
+        <item>$240.35</item>
+        <item>$340.35</item>
+        <item>$640.35</item>
+        <item>$940.35</item>
+        <item>$440.35</item>
+        <item>$140.35</item>
+        <item>$640.35</item>
+        <item>$540.35</item>
+        <item>$240.35</item>
+    </string-array>
+
+    <string-array name="operator_name">
+        <item>Emirates</item>
+        <item>Qatar</item>
+        <item>IndiGo</item>
+        <item>British Air</item>
+        <item>Delta Air</item>
+        <item>Etihad</item>
+        <item>US Bangla</item>
+        <item>Qantas Air</item>
+        <item>Aeroflot</item>
+        <item>Biman</item>
+    </string-array>
+
+
+    <string-array name="operator_class">
+        <item>Economy</item>
+        <item>First class</item>
+        <item>Economy</item>
+        <item>First class</item>
+        <item>Economy</item>
+        <item>First class</item>
+        <item>Economy</item>
+        <item>First class</item>
+        <item>Economy</item>
+        <item>First class</item>
+    </string-array>
+</resources>
