@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:versionedparcelable-28.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/9ce9843d1bb25d93c7f3c481133d2098c2cd5b9e/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/9ce9843d1bb25d93c7f3c481133d2098c2cd5b9e/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

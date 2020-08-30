@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "496996006812",
+    "firebase_url": "https://airticketbooking-c6c25.firebaseio.com",
+    "project_id": "airticketbooking-c6c25",
+    "storage_bucket": "airticketbooking-c6c25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496996006812:android:772488624023691de36659",
+        "android_client_info": {
+          "package_name": "com.flydemo.bel.flydemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496996006812-manbutbp9s96gta4355op50r52pms1d5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flydemo.bel.flydemo",
+            "certificate_hash": "d8b564fe27cc3241bb9fc2b013722d13e20a4ee4"
+          }
+        },
+        {
+          "client_id": "496996006812-dtq7qv6cqpafrcf3ttvcvkdbh3m9k613.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-f0ZW0V-TjDyqxH2lCVW52RxxUauB2SM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496996006812-dtq7qv6cqpafrcf3ttvcvkdbh3m9k613.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
